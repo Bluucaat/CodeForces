@@ -1,6 +1,5 @@
 input_matrix = []
 index_of_one = (-1, -1)
-middle = 2
 
 for i in range(5):
     row = list(map(int, input().split(" ")))
@@ -8,5 +7,5 @@ for i in range(5):
     if 1 in input_matrix[i]:
         index_of_one = (i, input_matrix[i].index(1))
 
-distance_tuple = tuple(abs(x - middle) for x in index_of_one)
+distance_tuple = tuple(abs(x - 2) for x in index_of_one)
 print(distance_tuple[0] + distance_tuple[1])
