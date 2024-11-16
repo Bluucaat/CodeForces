@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c69ffef3-cd72-493a-b567-deec2f04dfa0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CodeForces.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +36,11 @@
     "Python.112_petya_and_strings.executor": "Run",
     "Python.236a_boy_or_girl.executor": "Run",
     "Python.263a_beautiful_matrix.executor": "Run",
+    "Python.266a_stones_on_the_table.executor": "Run",
     "Python.281a_word_capitalization.executor": "Run",
     "Python.339a_helpful_maths.executor": "Run",
     "Python.50a_domino_piling.executor": "Run",
+    "Python.617a_elephant.executor": "Run",
     "Python.791a_bear_and_big_brother.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -80,6 +78,8 @@
       <workItem from="1731589639508" duration="899000" />
       <workItem from="1731624198016" duration="7494000" />
       <workItem from="1731683504791" duration="1342000" />
+      <workItem from="1731689027748" duration="128000" />
+      <workItem from="1731705637374" duration="7175000" />
     </task>
     <servers />
   </component>
@@ -92,7 +92,9 @@
     <SUITE FILE_PATH="coverage/CodeForces$281a_word_capitalization.coverage" NAME="281a_word_capitalization Coverage Results" MODIFIED="1731660502058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$263a_beautiful_matrix.coverage" NAME="263a_beautiful_matrix Coverage Results" MODIFIED="1731560434764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$236a_boy_or_girl.coverage" NAME="236a_boy_or_girl Coverage Results" MODIFIED="1731661255760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
-    <SUITE FILE_PATH="coverage/CodeForces$791a_bear_and_big_brother.coverage" NAME="791a_bear_and_big_brother Coverage Results" MODIFIED="1731684034951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
+    <SUITE FILE_PATH="coverage/CodeForces$791a_bear_and_big_brother.coverage" NAME="791a_bear_and_big_brother Coverage Results" MODIFIED="1731689043534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
+    <SUITE FILE_PATH="coverage/CodeForces$266a_stones_on_the_table.coverage" NAME="266a_stones_on_the_table Coverage Results" MODIFIED="1731711543849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
+    <SUITE FILE_PATH="coverage/CodeForces$617a_elephant.coverage" NAME="617a_elephant Coverage Results" MODIFIED="1731736730774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$50a_domino_piling.coverage" NAME="50a_domino_piling Coverage Results" MODIFIED="1731590303687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
   </component>
 </project>
