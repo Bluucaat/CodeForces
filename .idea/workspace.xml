@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c69ffef3-cd72-493a-b567-deec2f04dfa0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CodeForces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,35 +30,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.110a_lucky_numbers.executor": "Run",
-    "Python.112_petya_and_strings.executor": "Run",
-    "Python.1a_anita_codes.executor": "Run",
-    "Python.236a_boy_or_girl.executor": "Run",
-    "Python.263a_beautiful_matrix.executor": "Run",
-    "Python.266a_stones_on_the_table.executor": "Run",
-    "Python.281a_word_capitalization.executor": "Run",
-    "Python.339a_helpful_maths.executor": "Run",
-    "Python.50a_domino_piling.executor": "Run",
-    "Python.546a_soldier_and_bananas.executor": "Run",
-    "Python.59a_word.executor": "Run",
-    "Python.617a_elephant.executor": "Run",
-    "Python.791a_bear_and_big_brother.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ribarkrisztian/pycharmProjects/CodeForces",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.110a_lucky_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.112_petya_and_strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1a_anita_codes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.236a_boy_or_girl.executor&quot;: &quot;Run&quot;,
+    &quot;Python.263a_beautiful_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.266a_stones_on_the_table.executor&quot;: &quot;Run&quot;,
+    &quot;Python.281a_word_capitalization.executor&quot;: &quot;Run&quot;,
+    &quot;Python.339a_helpful_maths.executor&quot;: &quot;Run&quot;,
+    &quot;Python.50a_domino_piling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.546a_soldier_and_bananas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.59a_word.executor&quot;: &quot;Run&quot;,
+    &quot;Python.617a_elephant.executor&quot;: &quot;Run&quot;,
+    &quot;Python.791a_bear_and_big_brother.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ribarkrisztian/pycharmProjects/CodeForces&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -94,7 +91,8 @@
       <workItem from="1731823970261" duration="1045000" />
       <workItem from="1731887938552" duration="796000" />
       <workItem from="1731974208753" duration="4019000" />
-      <workItem from="1732107629066" duration="1267000" />
+      <workItem from="1732107629066" duration="1977000" />
+      <workItem from="1732119502760" duration="4000" />
     </task>
     <servers />
   </component>
