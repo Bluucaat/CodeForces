@@ -32,6 +32,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.1030a_easy_problem.executor": "Run",
     "Python.110a_lucky_numbers.executor": "Run",
     "Python.112_petya_and_strings.executor": "Run",
     "Python.1a_anita_codes.executor": "Run",
@@ -101,7 +102,8 @@
       <workItem from="1732172080252" duration="1693000" />
       <workItem from="1732245756206" duration="942000" />
       <workItem from="1732352173400" duration="2158000" />
-      <workItem from="1732437549565" duration="882000" />
+      <workItem from="1732437549565" duration="1168000" />
+      <workItem from="1732492797209" duration="458000" />
     </task>
     <servers />
   </component>
@@ -111,6 +113,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CodeForces$263a_beautiful_matrix.coverage" NAME="263a_beautiful_matrix Coverage Results" MODIFIED="1731560434764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$112_petya_and_strings.coverage" NAME="112_petya_and_strings Coverage Results" MODIFIED="1731626008876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
+    <SUITE FILE_PATH="coverage/CodeForces$1030a_easy_problem.coverage" NAME="1030a_easy_problem Coverage Results" MODIFIED="1732492954580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$617a_elephant.coverage" NAME="617a_elephant Coverage Results" MODIFIED="1731736998752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$339a_helpful_maths.coverage" NAME="339a_helpful_maths Coverage Results" MODIFIED="1731657985467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$791a_bear_and_big_brother.coverage" NAME="791a_bear_and_big_brother Coverage Results" MODIFIED="1731689043534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
