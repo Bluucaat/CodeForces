@@ -30,50 +30,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1030a_easy_problem.executor": "Run",
-    "Python.110a_lucky_numbers.executor": "Run",
-    "Python.112_petya_and_strings.executor": "Run",
-    "Python.1328a_divisibility_problem.executor": "Run",
-    "Python.136a_presents.executor": "Run",
-    "Python.1a_anita_codes.executor": "Run",
-    "Python.200b_drinks.executor": "Run",
-    "Python.228a_is_your_horseshoe_on_the_other_hoof.executor": "Run",
-    "Python.236a_boy_or_girl.executor": "Run",
-    "Python.263a_beautiful_matrix.executor": "Run",
-    "Python.266a_stones_on_the_table.executor": "Run",
-    "Python.266b_queue_at_the_school.executor": "Run",
-    "Python.271a_beautiful_year.executor": "Run",
-    "Python.281a_word_capitalization.executor": "Run",
-    "Python.339a_helpful_maths.executor": "Run",
-    "Python.41a_translation.executor": "Run",
-    "Python.467a_george_and_accomodation.executor": "Run",
-    "Python.469a_i_wanna_be_the_guy.executor": "Run",
-    "Python.486a_calculating_function.executor": "Run",
-    "Python.50a_domino_piling.executor": "Run",
-    "Python.520a_pangram.executor": "Run",
-    "Python.546a_soldier_and_bananas.executor": "Run",
-    "Python.59a_word.executor": "Run",
-    "Python.617a_elephant.executor": "Run",
-    "Python.61a_ultra_fast_mathematician.executor": "Run",
-    "Python.677a_vanya_and_fence.executor": "Run",
-    "Python.705a_hulk.executor": "Run",
-    "Python.791a_bear_and_big_brother.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ribarkrisztian/pycharmProjects/CodeForces",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1030a_easy_problem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.110a_lucky_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.112_petya_and_strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1328a_divisibility_problem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.136a_presents.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1a_anita_codes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.200b_drinks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.228a_is_your_horseshoe_on_the_other_hoof.executor&quot;: &quot;Run&quot;,
+    &quot;Python.236a_boy_or_girl.executor&quot;: &quot;Run&quot;,
+    &quot;Python.263a_beautiful_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.266a_stones_on_the_table.executor&quot;: &quot;Run&quot;,
+    &quot;Python.266b_queue_at_the_school.executor&quot;: &quot;Run&quot;,
+    &quot;Python.271a_beautiful_year.executor&quot;: &quot;Run&quot;,
+    &quot;Python.281a_word_capitalization.executor&quot;: &quot;Run&quot;,
+    &quot;Python.339a_helpful_maths.executor&quot;: &quot;Run&quot;,
+    &quot;Python.41a_translation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.467a_george_and_accomodation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.469a_i_wanna_be_the_guy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.486a_calculating_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.50a_domino_piling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.520a_pangram.executor&quot;: &quot;Run&quot;,
+    &quot;Python.546a_soldier_and_bananas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.59a_word.executor&quot;: &quot;Run&quot;,
+    &quot;Python.617a_elephant.executor&quot;: &quot;Run&quot;,
+    &quot;Python.61a_ultra_fast_mathematician.executor&quot;: &quot;Run&quot;,
+    &quot;Python.677a_vanya_and_fence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.705a_hulk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.791a_bear_and_big_brother.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ribarkrisztian/pycharmProjects/CodeForces&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -123,7 +123,8 @@
       <workItem from="1733060780200" duration="3434000" />
       <workItem from="1733098090303" duration="2073000" />
       <workItem from="1733122433174" duration="2000" />
-      <workItem from="1733123180405" duration="1359000" />
+      <workItem from="1733123180405" duration="1576000" />
+      <workItem from="1733237104951" duration="311000" />
     </task>
     <servers />
   </component>
@@ -131,7 +132,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/CodeForces$469a_i_wanna_be_the_guy.coverage" NAME="469a_i_wanna_be_the_guy Coverage Results" MODIFIED="1733124533662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
+    <SUITE FILE_PATH="coverage/CodeForces$469a_i_wanna_be_the_guy.coverage" NAME="469a_i_wanna_be_the_guy Coverage Results" MODIFIED="1733124543365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$705a_hulk.coverage" NAME="705a_hulk Coverage Results" MODIFIED="1732862865180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$486a_calculating_function.coverage" NAME="486a_calculating_function Coverage Results" MODIFIED="1732754654874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$520a_pangram.coverage" NAME="520a_pangram Coverage Results" MODIFIED="1733101079428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
