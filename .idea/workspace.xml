@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c69ffef3-cd72-493a-b567-deec2f04dfa0" name="Changes" comment="" />
+    <list default="true" id="c69ffef3-cd72-493a-b567-deec2f04dfa0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +62,7 @@
     "Python.61a_ultra_fast_mathematician.executor": "Run",
     "Python.677a_vanya_and_fence.executor": "Run",
     "Python.705a_hulk.executor": "Run",
+    "Python.785a_anton_and_polyhedrons.executor": "Run",
     "Python.791a_bear_and_big_brother.executor": "Run",
     "Python.996a_hit_the_lottery.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -128,6 +131,8 @@
       <workItem from="1733123180405" duration="1576000" />
       <workItem from="1733237104951" duration="2981000" />
       <workItem from="1733372138927" duration="3404000" />
+      <workItem from="1733495862072" duration="723000" />
+      <workItem from="1733573081996" duration="342000" />
     </task>
     <servers />
   </component>
