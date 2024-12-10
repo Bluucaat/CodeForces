@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c69ffef3-cd72-493a-b567-deec2f04dfa0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/800/268a_games.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +56,7 @@
     "Python.469a_i_wanna_be_the_guy.executor": "Run",
     "Python.486a_calculating_function.executor": "Run",
     "Python.50a_domino_piling.executor": "Run",
+    "Python.510a_fox_and_snake.executor": "Run",
     "Python.520a_pangram.executor": "Run",
     "Python.546a_soldier_and_bananas.executor": "Run",
     "Python.59a_word.executor": "Run",
@@ -135,7 +135,8 @@
       <workItem from="1733372138927" duration="3404000" />
       <workItem from="1733495862072" duration="723000" />
       <workItem from="1733573081996" duration="1770000" />
-      <workItem from="1733743263587" duration="1978000" />
+      <workItem from="1733743263587" duration="2095000" />
+      <workItem from="1733792293739" duration="1561000" />
     </task>
     <servers />
   </component>
