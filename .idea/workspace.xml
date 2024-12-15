@@ -36,6 +36,7 @@
     "Python.110a_lucky_numbers.executor": "Run",
     "Python.112_petya_and_strings.executor": "Run",
     "Python.1328a_divisibility_problem.executor": "Run",
+    "Python.1352a_sum_of_round_numbers.executor": "Run",
     "Python.136a_presents.executor": "Run",
     "Python.141a_amusing_joke.executor": "Run",
     "Python.144a_arrival_of_the_general.executor": "Run",
@@ -138,7 +139,9 @@
       <workItem from="1733573081996" duration="1770000" />
       <workItem from="1733743263587" duration="2095000" />
       <workItem from="1733792293739" duration="2372000" />
-      <workItem from="1734100338844" duration="970000" />
+      <workItem from="1734100338844" duration="995000" />
+      <workItem from="1734172288690" duration="836000" />
+      <workItem from="1734269189528" duration="1169000" />
     </task>
     <servers />
   </component>
@@ -146,8 +149,8 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/CodeForces$469a_i_wanna_be_the_guy.coverage" NAME="469a_i_wanna_be_the_guy Coverage Results" MODIFIED="1733124543365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$141a_amusing_joke.coverage" NAME="141a_amusing_joke Coverage Results" MODIFIED="1734101099544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
+    <SUITE FILE_PATH="coverage/CodeForces$469a_i_wanna_be_the_guy.coverage" NAME="469a_i_wanna_be_the_guy Coverage Results" MODIFIED="1733124543365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$705a_hulk.coverage" NAME="705a_hulk Coverage Results" MODIFIED="1732862865180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$486a_calculating_function.coverage" NAME="486a_calculating_function Coverage Results" MODIFIED="1732754654874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$520a_pangram.coverage" NAME="520a_pangram Coverage Results" MODIFIED="1733101079428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
@@ -181,6 +184,7 @@
     <SUITE FILE_PATH="coverage/CodeForces$1a_anita_codes.coverage" NAME="1a_anita_codes Coverage Results" MODIFIED="1732108932160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$510a_fox_and_snake.coverage" NAME="510a_fox_and_snake Coverage Results" MODIFIED="1733794063302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$136a_presents.coverage" NAME="136a_presents Coverage Results" MODIFIED="1732840903022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
+    <SUITE FILE_PATH="coverage/CodeForces$1352a_sum_of_round_numbers.coverage" NAME="1352a_sum_of_round_numbers Coverage Results" MODIFIED="1734270595092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$61a_ultra_fast_mathematician.coverage" NAME="61a_ultra_fast_mathematician Coverage Results" MODIFIED="1732861628380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
   </component>
 </project>
