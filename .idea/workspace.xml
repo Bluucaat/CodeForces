@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c69ffef3-cd72-493a-b567-deec2f04dfa0" name="Changes" comment="" />
+    <list default="true" id="c69ffef3-cd72-493a-b567-deec2f04dfa0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +53,7 @@
     "Python.281a_word_capitalization.executor": "Run",
     "Python.339a_helpful_maths.executor": "Run",
     "Python.41a_translation.executor": "Run",
+    "Python.427a_police_recruits.executor": "Run",
     "Python.443a_anton_and_letters.executor": "Run",
     "Python.467a_george_and_accomodation.executor": "Run",
     "Python.469a_i_wanna_be_the_guy.executor": "Run",
@@ -64,6 +67,7 @@
     "Python.61a_ultra_fast_mathematician.executor": "Run",
     "Python.677a_vanya_and_fence.executor": "Run",
     "Python.705a_hulk.executor": "Run",
+    "Python.723a_the_new_year_meeting_friends.executor": "Run",
     "Python.785a_anton_and_polyhedrons.executor": "Run",
     "Python.791a_bear_and_big_brother.executor": "Run",
     "Python.996a_hit_the_lottery.executor": "Run",
@@ -140,6 +144,8 @@
       <workItem from="1734100338844" duration="995000" />
       <workItem from="1734172288690" duration="836000" />
       <workItem from="1734269189528" duration="2024000" />
+      <workItem from="1734444383866" duration="717000" />
+      <workItem from="1735380253135" duration="1652000" />
     </task>
     <servers />
   </component>
@@ -173,11 +179,13 @@
     <SUITE FILE_PATH="coverage/CodeForces$112_petya_and_strings.coverage" NAME="112_petya_and_strings Coverage Results" MODIFIED="1731626008876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$268a_games.coverage" NAME="268a_games Coverage Results" MODIFIED="1733744126266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$228a_is_your_horseshoe_on_the_other_hoof.coverage" NAME="228a_is_your_horseshoe_on_the_other_hoof Coverage Results" MODIFIED="1732862134293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
+    <SUITE FILE_PATH="coverage/CodeForces$427a_police_recruits.coverage" NAME="427a_police_recruits Coverage Results" MODIFIED="1735381843926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$339a_helpful_maths.coverage" NAME="339a_helpful_maths Coverage Results" MODIFIED="1731657985467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$144a_arrival_of_the_general.coverage" NAME="144a_arrival_of_the_general Coverage Results" MODIFIED="1733323644042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$546a_soldier_and_bananas.coverage" NAME="546a_soldier_and_bananas Coverage Results" MODIFIED="1731772269028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$281a_word_capitalization.coverage" NAME="281a_word_capitalization Coverage Results" MODIFIED="1731660502058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$467a_george_and_accomodation.coverage" NAME="467a_george_and_accomodation Coverage Results" MODIFIED="1732546605376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
+    <SUITE FILE_PATH="coverage/CodeForces$723a_the_new_year_meeting_friends.coverage" NAME="723a_the_new_year_meeting_friends Coverage Results" MODIFIED="1734444473790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$110a_lucky_numbers.coverage" NAME="110a_lucky_numbers Coverage Results" MODIFIED="1731986196795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$1a_anita_codes.coverage" NAME="1a_anita_codes Coverage Results" MODIFIED="1732108932160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$510a_fox_and_snake.coverage" NAME="510a_fox_and_snake Coverage Results" MODIFIED="1733794063302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
