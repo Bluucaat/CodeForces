@@ -72,6 +72,7 @@
     "Python.677a_vanya_and_fence.executor": "Run",
     "Python.705a_hulk.executor": "Run",
     "Python.723a_the_new_year_meeting_friends.executor": "Run",
+    "Python.732a_buy_a_shovel.executor": "Run",
     "Python.750a_new_year_and_hurry.executor": "Run",
     "Python.785a_anton_and_polyhedrons.executor": "Run",
     "Python.791a_bear_and_big_brother.executor": "Run",
@@ -154,7 +155,8 @@
       <workItem from="1735591928818" duration="6086000" />
       <workItem from="1735639523394" duration="461000" />
       <workItem from="1736189505840" duration="86000" />
-      <workItem from="1736340471124" duration="2256000" />
+      <workItem from="1736340471124" duration="4486000" />
+      <workItem from="1736635787502" duration="988000" />
     </task>
     <servers />
   </component>
@@ -167,6 +169,7 @@
     <SUITE FILE_PATH="coverage/CodeForces$705a_hulk.coverage" NAME="705a_hulk Coverage Results" MODIFIED="1732862865180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$486a_calculating_function.coverage" NAME="486a_calculating_function Coverage Results" MODIFIED="1732754654874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$520a_pangram.coverage" NAME="520a_pangram Coverage Results" MODIFIED="1733101079428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
+    <SUITE FILE_PATH="coverage/CodeForces$732a_buy_a_shovel.coverage" NAME="732a_buy_a_shovel Coverage Results" MODIFIED="1736636838577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$1030a_easy_problem.coverage" NAME="1030a_easy_problem Coverage Results" MODIFIED="1732492954580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$617a_elephant.coverage" NAME="617a_elephant Coverage Results" MODIFIED="1731736998752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$1742a_sum.coverage" NAME="1742a_sum Coverage Results" MODIFIED="1735639948949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
