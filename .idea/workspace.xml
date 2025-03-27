@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c69ffef3-cd72-493a-b567-deec2f04dfa0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c69ffef3-cd72-493a-b567-deec2f04dfa0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,71 +28,71 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1030a_easy_problem.executor": "Run",
-    "Python.110a_lucky_numbers.executor": "Run",
-    "Python.112_petya_and_strings.executor": "Run",
-    "Python.1154a_restoring_three_numbers.executor": "Run",
-    "Python.1328a_divisibility_problem.executor": "Run",
-    "Python.1352a_sum_of_round_numbers.executor": "Run",
-    "Python.136a_presents.executor": "Run",
-    "Python.141a_amusing_joke.executor": "Run",
-    "Python.144a_arrival_of_the_general.executor": "Run",
-    "Python.148s_insomnia_cure.executor": "Run",
-    "Python.151a_soft_drinking.executor": "Run",
-    "Python.155a_i_love_%username%.executor": "Run",
-    "Python.1692a_marathon.executor": "Run",
-    "Python.1742a_sum.executor": "Run",
-    "Python.1a_anita_codes.executor": "Run",
-    "Python.1a_threatre_square.executor": "Run",
-    "Python.200b_drinks.executor": "Run",
-    "Python.228a_is_your_horseshoe_on_the_other_hoof.executor": "Run",
-    "Python.236a_boy_or_girl.executor": "Run",
-    "Python.263a_beautiful_matrix.executor": "Run",
-    "Python.266a_stones_on_the_table.executor": "Run",
-    "Python.266b_queue_at_the_school.executor": "Run",
-    "Python.268a_games.executor": "Run",
-    "Python.271a_beautiful_year.executor": "Run",
-    "Python.281a_word_capitalization.executor": "Run",
-    "Python.339a_helpful_maths.executor": "Run",
-    "Python.381a_sereja_and_dima.executor": "Run",
-    "Python.41a_translation.executor": "Run",
-    "Python.427a_police_recruits.executor": "Run",
-    "Python.443a_anton_and_letters.executor": "Run",
-    "Python.467a_george_and_accomodation.executor": "Run",
-    "Python.469a_i_wanna_be_the_guy.executor": "Run",
-    "Python.486a_calculating_function.executor": "Run",
-    "Python.50a_domino_piling.executor": "Run",
-    "Python.510a_fox_and_snake.executor": "Run",
-    "Python.520a_pangram.executor": "Run",
-    "Python.546a_soldier_and_bananas.executor": "Run",
-    "Python.581a_vasya_the_hipster.executor": "Run",
-    "Python.59a_word.executor": "Run",
-    "Python.617a_elephant.executor": "Run",
-    "Python.61a_ultra_fast_mathematician.executor": "Run",
-    "Python.677a_vanya_and_fence.executor": "Run",
-    "Python.705a_hulk.executor": "Run",
-    "Python.723a_the_new_year_meeting_friends.executor": "Run",
-    "Python.732a_buy_a_shovel.executor": "Run",
-    "Python.750a_new_year_and_hurry.executor": "Run",
-    "Python.785a_anton_and_polyhedrons.executor": "Run",
-    "Python.791a_bear_and_big_brother.executor": "Run",
-    "Python.996a_hit_the_lottery.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Krisz/PycharmProjects/CodeForces",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1030a_easy_problem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.110a_lucky_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.112_petya_and_strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1154a_restoring_three_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1328a_divisibility_problem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1352a_sum_of_round_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.136a_presents.executor&quot;: &quot;Run&quot;,
+    &quot;Python.141a_amusing_joke.executor&quot;: &quot;Run&quot;,
+    &quot;Python.144a_arrival_of_the_general.executor&quot;: &quot;Run&quot;,
+    &quot;Python.148s_insomnia_cure.executor&quot;: &quot;Run&quot;,
+    &quot;Python.151a_soft_drinking.executor&quot;: &quot;Run&quot;,
+    &quot;Python.155a_i_love_%username%.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1692a_marathon.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1742a_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1a_anita_codes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1a_threatre_square.executor&quot;: &quot;Run&quot;,
+    &quot;Python.200b_drinks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.228a_is_your_horseshoe_on_the_other_hoof.executor&quot;: &quot;Run&quot;,
+    &quot;Python.236a_boy_or_girl.executor&quot;: &quot;Run&quot;,
+    &quot;Python.263a_beautiful_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.266a_stones_on_the_table.executor&quot;: &quot;Run&quot;,
+    &quot;Python.266b_queue_at_the_school.executor&quot;: &quot;Run&quot;,
+    &quot;Python.268a_games.executor&quot;: &quot;Run&quot;,
+    &quot;Python.271a_beautiful_year.executor&quot;: &quot;Run&quot;,
+    &quot;Python.281a_word_capitalization.executor&quot;: &quot;Run&quot;,
+    &quot;Python.339a_helpful_maths.executor&quot;: &quot;Run&quot;,
+    &quot;Python.381a_sereja_and_dima.executor&quot;: &quot;Run&quot;,
+    &quot;Python.41a_translation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.427a_police_recruits.executor&quot;: &quot;Run&quot;,
+    &quot;Python.443a_anton_and_letters.executor&quot;: &quot;Run&quot;,
+    &quot;Python.467a_george_and_accomodation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.469a_i_wanna_be_the_guy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.486a_calculating_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.50a_domino_piling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.510a_fox_and_snake.executor&quot;: &quot;Run&quot;,
+    &quot;Python.520a_pangram.executor&quot;: &quot;Run&quot;,
+    &quot;Python.546a_soldier_and_bananas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.581a_vasya_the_hipster.executor&quot;: &quot;Run&quot;,
+    &quot;Python.59a_word.executor&quot;: &quot;Run&quot;,
+    &quot;Python.617a_elephant.executor&quot;: &quot;Run&quot;,
+    &quot;Python.61a_ultra_fast_mathematician.executor&quot;: &quot;Run&quot;,
+    &quot;Python.677a_vanya_and_fence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.705a_hulk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.723a_the_new_year_meeting_friends.executor&quot;: &quot;Run&quot;,
+    &quot;Python.732a_buy_a_shovel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.750a_new_year_and_hurry.executor&quot;: &quot;Run&quot;,
+    &quot;Python.785a_anton_and_polyhedrons.executor&quot;: &quot;Run&quot;,
+    &quot;Python.791a_bear_and_big_brother.executor&quot;: &quot;Run&quot;,
+    &quot;Python.996a_hit_the_lottery.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Krisz/PycharmProjects/CodeForces&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -166,6 +164,7 @@
       <workItem from="1741964986586" duration="949000" />
       <workItem from="1742920503269" duration="1051000" />
       <workItem from="1743019434489" duration="2647000" />
+      <workItem from="1743090360648" duration="318000" />
     </task>
     <servers />
   </component>
