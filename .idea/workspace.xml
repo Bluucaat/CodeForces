@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c69ffef3-cd72-493a-b567-deec2f04dfa0" name="Changes" comment="" />
+    <list default="true" id="c69ffef3-cd72-493a-b567-deec2f04dfa0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +39,7 @@
     &quot;Python.1328a_divisibility_problem.executor&quot;: &quot;Run&quot;,
     &quot;Python.1352a_sum_of_round_numbers.executor&quot;: &quot;Run&quot;,
     &quot;Python.136a_presents.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1409a_yet_another_two_integers_problem.executor&quot;: &quot;Run&quot;,
     &quot;Python.141a_amusing_joke.executor&quot;: &quot;Run&quot;,
     &quot;Python.144a_arrival_of_the_general.executor&quot;: &quot;Run&quot;,
     &quot;Python.148s_insomnia_cure.executor&quot;: &quot;Run&quot;,
@@ -164,7 +167,8 @@
       <workItem from="1741964986586" duration="949000" />
       <workItem from="1742920503269" duration="1051000" />
       <workItem from="1743019434489" duration="2647000" />
-      <workItem from="1743090360648" duration="318000" />
+      <workItem from="1743090360648" duration="640000" />
+      <workItem from="1743201967470" duration="339000" />
     </task>
     <servers />
   </component>
@@ -176,6 +180,7 @@
     <SUITE FILE_PATH="coverage/CodeForces$266b_queue_at_the_school.coverage" NAME="266b_queue_at_the_school Coverage Results" MODIFIED="1732438398872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$617a_elephant.coverage" NAME="617a_elephant Coverage Results" MODIFIED="1731736998752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$151a_soft_drinking.coverage" NAME="151a_soft_drinking Coverage Results" MODIFIED="1736342607438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
+    <SUITE FILE_PATH="coverage/CodeForces$1409a_yet_another_two_integers_problem.coverage" NAME="1409a_yet_another_two_integers_problem Coverage Results" MODIFIED="1743090790379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$271a_beautiful_year.coverage" NAME="271a_beautiful_year Coverage Results" MODIFIED="1732353318800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$1692a_marathon.coverage" NAME="1692a_marathon Coverage Results" MODIFIED="1743019851707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$791a_bear_and_big_brother.coverage" NAME="791a_bear_and_big_brother Coverage Results" MODIFIED="1731689043534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
@@ -189,8 +194,8 @@
     <SUITE FILE_PATH="coverage/CodeForces$1030a_easy_problem.coverage" NAME="1030a_easy_problem Coverage Results" MODIFIED="1732492954580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$1a_anita_codes.coverage" NAME="1a_anita_codes Coverage Results" MODIFIED="1732108932160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$148s_insomnia_cure.coverage" NAME="148s_insomnia_cure Coverage Results" MODIFIED="1733373475082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
-    <SUITE FILE_PATH="coverage/CodeForces$1328a_divisibility_problem.coverage" NAME="1328a_divisibility_problem Coverage Results" MODIFIED="1733064533856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$546a_soldier_and_bananas.coverage" NAME="546a_soldier_and_bananas Coverage Results" MODIFIED="1731772269028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
+    <SUITE FILE_PATH="coverage/CodeForces$1328a_divisibility_problem.coverage" NAME="1328a_divisibility_problem Coverage Results" MODIFIED="1733064533856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$581a_vasya_the_hipster.coverage" NAME="581a_vasya_the_hipster Coverage Results" MODIFIED="1741965504947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$510a_fox_and_snake.coverage" NAME="510a_fox_and_snake Coverage Results" MODIFIED="1733794063302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/CodeForces$155a_i_love__username_.coverage" NAME="155a_i_love_%username% Coverage Results" MODIFIED="1735639317799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
